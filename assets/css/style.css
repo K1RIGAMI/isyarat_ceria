@@ -808,6 +808,7 @@ footer{
         .tm-text{
             color: var(--navbar_Font_Color);
             position: absolute;
+            margin: 0 10vw;
             
             h1{
                 font-family: var(--title_Font);
@@ -821,24 +822,25 @@ footer{
     }
 
     .materi-txt{
-        padding: 5vh 10vw;
+        padding: 2.5vh 10vw;
         display: flex;
         flex-direction: column;
         font-family: var(--title_Font);
         color: var(--navbar_Bg);
 
         h1{
-            font-size: 1.2em;
+            font-size: 1.5em;
         }
 
         p{
             font-size: 0.8em;
             text-align: justify;
+            line-height: 1.5;
         }
     }
 
     .materi-bigvid{
-        padding: 5vh 10vw;
+        padding: 2.5vh 10vw;
         display: flex;
         flex-direction: column;
         font-family: var(--title_Font);
@@ -869,7 +871,7 @@ footer{
             flex-wrap: wrap;
             
             video{
-                padding: 1vh;
+                padding: 1vh 0;
                 width: 100%;
             }
         }
