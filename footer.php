@@ -21,24 +21,17 @@ include 'koneksi.php';
                     <h2>Materi Pemula</h2>
                     <a href="./materi_pemula.php#kat-ganti">Kata ganti</a>
                     <a href="./materi_pemula.php#kat-sifat">Kata sifat</a>
-                    <a href="./materi_pemula.php#kat-sifat">Kata benda</a>
+                    <a href="./materi_pemula.php#kat-benda">Kata benda</a>
+                    <a href="./materi_pemula.php#kat-tanya">Kata tanya</a>
                     <a href="./materi_pemula.php#kat-hubung">Kata hubung</a>
-                    <a href="./materi_pemula.php#imbuhan">Imbuhan</a>
+                    <a href="./materi_pemula.php#imbuhanpref">Imbuhan Awal</a>
+                    <a href="./materi_pemula.php#imbuhansuf">Imbuhan Akhir</a>
                 </div>
                 <div class="materi-footer">
                     <h2>Materi Lanjutan</h2>
-                    <a href="./materi_lanjutan.php#imbuhandasar">Memasukkan Imbuhan ke Kalimat Dasar</a>
-                    <a href="./materi_lanjutan.php#kal-tunggal">Kalimat Tunggal</a>
-                    <a href="./materi_lanjutan.php#kal-majemuk">Kalimat Majemuk </a>
-                    <a href="./materi_lanjutan.php#kal-deklaratif">Kalimat Deklaratif (Pernyataan)</a>
-                    <a href="./materi_lanjutan.php#kal-tanya">Kalimat Tanya (Kalimat Interogatif)</a>
-                    <a href="./materi_lanjutan.php#kal-seruan">Kalimat Seruan</a>                    
-                </div>
-                <div class="materi-footer">
-                    <h2>Tentang Kami</h2>
-                    <a href="./tentang_kami.php#latarblkng">Latar belakang</a>
-                    <a href="./tentang_kami.php#tim">Tim kami</a>
-                </div>                
+                    <a>Coming Soon</a>
+                                       
+                </div>                             
             </div>
             
             
